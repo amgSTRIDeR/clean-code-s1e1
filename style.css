@@ -34,7 +34,9 @@
   margin: 0 auto 0;
 }
 
-.task-add__input, .tasks-list__input, .tasks-list__label {
+.task-add__input,
+.tasks-list__input,
+.tasks-list__label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -75,7 +77,9 @@
   cursor: pointer;
 }
 
-.task-add__btn:hover, .tasks-list__edit-btn:hover, .tasks-list__delete-btn:hover {
+.task-add__btn:hover,
+.tasks-list__edit-btn:hover,
+.tasks-list__delete-btn:hover {
   color: #3a3a3a;
 }
 
